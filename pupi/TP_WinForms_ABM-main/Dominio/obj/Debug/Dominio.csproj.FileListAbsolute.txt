@@ -1,0 +1,6 @@
+C:\Users\tobia\OneDrive\Escritorio\pupi\TP_WinForms_ABM-main\Dominio\bin\Debug\Dominio.dll
+C:\Users\tobia\OneDrive\Escritorio\pupi\TP_WinForms_ABM-main\Dominio\bin\Debug\Dominio.pdb
+C:\Users\tobia\OneDrive\Escritorio\pupi\TP_WinForms_ABM-main\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\tobia\OneDrive\Escritorio\pupi\TP_WinForms_ABM-main\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive\Escritorio\pupi\TP_WinForms_ABM-main\Dominio\obj\Debug\Dominio.dll
+C:\Users\tobia\OneDrive\Escritorio\pupi\TP_WinForms_ABM-main\Dominio\obj\Debug\Dominio.pdb
